@@ -1,0 +1,14 @@
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\bin\Debug\net7.0\SimpleOrderSummary.exe
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\bin\Debug\net7.0\SimpleOrderSummary.deps.json
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\bin\Debug\net7.0\SimpleOrderSummary.runtimeconfig.json
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\bin\Debug\net7.0\SimpleOrderSummary.dll
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\bin\Debug\net7.0\SimpleOrderSummary.pdb
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.AssemblyInfoInputs.cache
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.AssemblyInfo.cs
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.dll
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\refint\SimpleOrderSummary.dll
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.pdb
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\SimpleOrderSummary.genruntimeconfig.cache
+C:\Users\Tiago\Documents\GitHub\SimpleOrderSummary\obj\Debug\net7.0\ref\SimpleOrderSummary.dll
